@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-spring/web": "^9.5.5",
+    "@simplewebauthn/browser": "^10.0.0",
+    "@simplewebauthn/server": "^10.0.1",
+    "chart.js": "^4.4.4",
+    "framer-motion": "^11.5.4",
+    "next": "14.2.9",
+    "next-auth": "^4.24.7",
+    "qrcode": "^1.5.4",
     "react": "^18",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18",
-    "next": "14.2.9"
+    "react-ios-switch": "^0.1.19",
+    "react-scripts": "5.0.1",
+    "react-tinder-card": "^1.6.4",
+    "speakeasy": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "^8",
